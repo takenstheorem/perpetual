@@ -1,3 +1,7 @@
+*For fun, playful experience, a sense of the collective, major group [decisions](https://daowiki.atlassian.net/wiki/spaces/DP/pages/7962760/Proposal+17+Raising+the+Proposal+Deposit+to+11+ETH)...*
+
+![Playful adaptation of DAO proposal wiki for our proposal...](../assets/proposal1.png?raw=True)
+
 # Proposal 1
 
 **Proposal summary**: Implement "hard fork" on the renderer to ensure all DAO proposals are included in the collection along with some improvements in issuance and presentation.
