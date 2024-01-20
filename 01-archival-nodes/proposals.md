@@ -16,7 +16,7 @@
 
 **Voting rights** derive from transacting with *Perpetual*, and snapshot will be added to [Snapshot.org](https://snapshot.org/#/) (for security: using the hot wallets that summoned *Perpetual* for minting). Voting power will derive from number of interactions with *Perpetual / Vol . 1* [ERC-721 contract](https://etherscan.io/address/0xbbcfcc50a2885495ab789e06bab7d8f85d2f73ce). NB: Snapshot ends at token #146.
 
-**Snapshot link**: Posted here when vote opens. All voting will be off-chain with Snapshot.
+**Snapshot link**: All voting will be off-chain with [Snapshot here](https://snapshot.org/#/perpetual.takens.eth).
 
 **Voting open / deadline**: opens Jan. 21st, 2023 and closes Jan. 28th, 2023.
 
