@@ -5,6 +5,14 @@
 
 🚧⭐️ Fork of this renderer being considered! Please [see](proposals.md) `proposals.md` for details.
 
+## Some interesting materials re: The DAO
+
+* Peruse a few proposals on an [early forum](https://daowiki.atlassian.net/wiki/spaces/DP/overview?homepageId=7962752)
+* Reddit: [I think TheDAO is getting drained right now](https://www.reddit.com/r/ethereum/comments/4oi2ta/i_think_thedao_is_getting_drained_right_now/)
+* YouTube: Excellent [explainer by Junion](https://www.youtube.com/watch?v=rNeLuBOVe8A)
+* The [first attack](https://medium.com/@oaeee/the-rise-of-the-dark-dao-72b21a2212e3): "lonely, so lonely"
+* Feels: Laura Shin's [interview](https://twitter.com/laurashin/status/1498659684508700673) with key players
+
 ## Discoveries & explainers on 𝕏 ❤️
 
 * [Zach Wong](https://twitter.com/mud2monarch/status/1741511261865889995)
