@@ -3,7 +3,7 @@
 
 *Tokens recapitulate a history. Ideas encoded in proposals and actualized by collective assent. Deterministic layout, linking symbols and submissions. All color, position variation mapped to chain data (except archive cursor).*
 
-🚧⭐️ Fork of this renderer being considered! Please [see](proposals.md) `proposals.md` for details.
+🚧⭐️ Fork of this renderer [passed](https://snapshot.org/#/perpetual.takens.eth/proposal/0x2309dd0e2961482d612aded48c25ce9caa04c0a50d94b13055e4bb3862b0de79). Please [see](proposals.md) `proposals.md` for details.
 
 ## Some interesting materials re: The DAO
 
