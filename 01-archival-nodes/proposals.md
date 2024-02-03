@@ -1,3 +1,7 @@
+✅ 🍻 Quorum was reached, with over half of holding wallets voting. 98.9% of votes favored updating the tokens with a "yea" result. I have therefore updated the "Archival Nodes," and they are now named by proposal interval, and the set now spans the full range of DAO proposals made in 2016. **These 149 Archival Nodes are complete**, for now. With a new renderer released, there will no longer be new "Archival Nodes" until the *Perpetual*'s "vanishing" interval triggers.
+
+---
+
 *For fun, a simulation, a sense of the collective & major group [decisions](https://daowiki.atlassian.net/wiki/spaces/DP/pages/7962760/Proposal+17+Raising+the+Proposal+Deposit+to+11+ETH)...*
 
 ![Playful adaptation of DAO proposal wiki for our proposal...](../assets/proposal1.png?raw=True)
