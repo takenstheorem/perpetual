@@ -56,7 +56,7 @@
 
 [WORD](https://ethwords.co/) is a canvas. 
 
-From 2021 to today, 20,000+ textual tokens that emerged from the root tokens, just 28 elements on which all subsequent ones are based (a-z, space, -). This makes WORD a little microcosm of cultural evolution. How would tokens evolve, expand? Of course, degens and NFT fans do not simply produce new WORD tokens as a totally regular or completely random process. Token creation is culturally directed. It can be playful: One of the earliest tokens is a WORD asset of hundreds and hundreds of characters long, mostly with the alphabet in sequence. It can be profane: The 20,000+ tokens are a veritable minefield of questonable four-letter words and phrases. But it is also filled with subtle cultural references: *degens, mcdonalds, dapps, cryptodad, crypto-art, digital-art, halfinney, ...*. 
+From 2020 to today, 20,000+ textual tokens that emerged from the root tokens, just 28 elements on which all subsequent ones are based (a-z, space, -). This makes WORD a little microcosm of cultural evolution. How would tokens evolve, expand? Of course, degens and NFT fans do not simply produce new WORD tokens as a totally regular or completely random process. Token creation is culturally directed. It can be playful: One of the earliest tokens is a WORD asset of hundreds and hundreds of characters long, mostly with the alphabet in sequence. It can be profane: The 20,000+ tokens are a veritable minefield of questonable four-letter words and phrases. But it is also filled with subtle cultural references: *degens, mcdonalds, dapps, cryptodad, crypto-art, digital-art, halfinney, ...*. 
 
 WORD is a directed cultural evolution, an echo of its place.
 
