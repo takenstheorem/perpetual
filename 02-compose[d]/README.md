@@ -86,5 +86,5 @@ It cost me about 3m gas to deploy these generator functions. Because the rendere
 
 I love when the chain gives us opportunities for conceptual recursions and self-reflections. But in an important sense this is not niche. WORD recapitulates the kind of divergence from neutral selection and other processes sometimes described in the study of biological and cultural evolution. The chain is just another medium through which the same principles diffuse and direct. 
 
-
+![Rhopalic expressions emanate from the generator function](../assets/rhops.png?raw=True)
 
