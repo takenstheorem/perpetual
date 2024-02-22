@@ -86,5 +86,16 @@ It cost me about 3m gas to deploy these generator functions. Because the rendere
 
 I love when the chain gives us opportunities for conceptual recursions and self-reflections. But in an important sense this is not niche. WORD recapitulates the kind of divergence from neutral selection and other processes sometimes described in the study of biological and cultural evolution. The chain is just another medium through which the same principles diffuse and direct. 
 
+### How can I mint?
+
+**compose[d]** is part of [*Perpetual*](https://perpetual.takens.eth.limo), which uses a fully on-chain allowlist of prior collectors. You can find details on the main website. Mints are 0.005 ETH and all proceeds are sent automatically to GiveDirectly.
+
+### Notes & Related Projects
+
+* [WORD](https://ethwords.co/), of course
+* Chainleft's [Chaos Roads](https://www.chainleft.art/chaos-roads) generates poetry in its innovative, groundbreaking multimodal outputs.
+* [Etherpoems](https://opensea.io/collection/etherpoemsspokenword) (2021) is perhaps the archetypal poetry project on Ethereum.
+* Many prominent poets on chain. Two favorites. See [Sasha Stiles](https://opensea.io/assets/ethereum/0x8fdde660c3ccab82756acc5233687a4ceb4b8f30/130). And for a prominent Oulipo example on Ethereum, see [Kalen Iwamoto](https://twitter.com/MothersEthereum/status/1393619639377317888) and their many structurally related works.
+
 ![Rhopalic expressions emanate from the generator function](../assets/rhops.png?raw=True)
 
