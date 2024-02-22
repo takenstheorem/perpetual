@@ -60,7 +60,7 @@ From 2020 to today, 20,000+ textual tokens that emerged from the root tokens, ju
 
 WORD is a directed cultural evolution, an echo of its place.
 
-As such, it is a kind of colletive poetry.
+As such, it is a kind of collective poetry.
 
 I work with data. I wanted to use WORD's data to express this poetry, this emergent process.
 
