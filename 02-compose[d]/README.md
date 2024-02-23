@@ -54,9 +54,9 @@
 
 ![WORD generations showing curious dalliances](../assets/word_gen_1.png?raw=True)
 
-[WORD](https://ethwords.co/) is a canvas. 
+The chain is expressive computation. Expression emanates inside it, growing more complex, emerging from its components. Composition.
 
-From 2020 to today, 20,000+ textual tokens that emerged from the root tokens, just 28 elements on which all subsequent ones are based (a-z, space, -). This makes WORD a little microcosm of cultural evolution. How would tokens evolve, expand? Of course, degens and NFT fans do not simply produce new WORD tokens as a totally regular or completely random process. Token creation is culturally directed. It can be playful: One of the earliest tokens is a WORD asset of hundreds and hundreds of characters long, mostly with the alphabet in sequence. It can be profane: The 20,000+ tokens are a veritable minefield of questonable four-letter words and phrases. But it is also filled with subtle cultural references: *degens, mcdonalds, dapps, cryptodad, crypto-art, digital-art, halfinney, ...*. 
+For example, consider [WORD](https://ethwords.co/). From 2020 to today, 20,000+ textual tokens that emerged from the root tokens, just 28 elements on which all subsequent ones are based (alphabet *a-z*, space, "-"). This makes WORD a little microcosm of cultural evolution. How would tokens evolve, expand? Of course, degens and NFT fans do not simply produce new WORD tokens as a totally regular or completely random process. Token creation is culturally directed. It can be playful: One of the earliest tokens is a WORD asset of hundreds and hundreds of characters long, mostly with the alphabet in sequence. It can be profane: The 20,000+ tokens are a veritable minefield of questonable four-letter words and phrases. But it is also filled with more or less subtle cultural references: *degens, mcdonalds, dapps, cryptodad, crypto-art, digital-art, halfinney, ...*. 
 
 WORD is a directed cultural evolution, an echo of its place.
 
@@ -94,8 +94,8 @@ I love when the chain gives us opportunities for conceptual recursions and self-
 
 * [WORD](https://ethwords.co/), of course
 * Chainleft's [Chaos Roads](https://www.chainleft.art/chaos-roads) generates poetry in its innovative, groundbreaking multimodal outputs.
-* [Etherpoems](https://opensea.io/collection/etherpoemsspokenword) (2021) is perhaps the archetypal poetry project on Ethereum.
 * Many prominent poets on chain. Two favorites. See [Sasha Stiles](https://opensea.io/assets/ethereum/0x8fdde660c3ccab82756acc5233687a4ceb4b8f30/130). And for a prominent Oulipo example on Ethereum, see [Kalen Iwamoto](https://twitter.com/MothersEthereum/status/1393619639377317888) and their many structurally related works.
+* [Etherpoems](https://opensea.io/collection/etherpoemsspokenword) (2021) is perhaps the archetypal poetry project on Ethereum. It published *many* poets and related creators, including [Sasha](https://twitter.com/sashastiles) and [Kalen](https://twitter.com/KalenIwamoto) and [Ana María Caballero](https://twitter.com/CaballeroAnaMa) and [A. L. Crego](https://twitter.com/ALCrego_).
 
 ![Rhopalic expressions emanate from the generator function](../assets/rhops.png?raw=True)
 
