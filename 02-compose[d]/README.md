@@ -88,9 +88,9 @@ I love when the chain gives us opportunities for conceptual recursions and self-
 
 ### How can I mint?
 
-**compose[d]** is part of [*Perpetual*](https://perpetual.takens.eth.limo), which uses a fully on-chain allowlist of prior collectors. You can find details on the main website. Mints are 0.005 ETH and all proceeds are sent automatically to GiveDirectly.
+**compose[d]** is part of [*Perpetual*](https://perpetual.takens.eth.limo), which uses a fully on-chain allowlist of prior collectors. You can find details on the main website. For **compose[d]**, mints are 0.005 ETH and all proceeds are sent automatically to GiveDirectly.
 
-### Notes & Related Projects
+### Notes & related projects
 
 * [WORD](https://ethwords.co/), of course
 * Chainleft's [Chaos Roads](https://www.chainleft.art/chaos-roads) generates poetry in its innovative, groundbreaking multimodal outputs.
