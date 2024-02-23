@@ -95,8 +95,8 @@ I love when the chain gives us opportunities for conceptual recursions and self-
 * [WORD](https://ethwords.co/), of course
 * Chainleft's [Chaos Roads](https://www.chainleft.art/chaos-roads) generates poetry in its innovative, groundbreaking multimodal outputs.
 * Many prominent poets on chain. Two favorites. See [Sasha Stiles](https://opensea.io/assets/ethereum/0x8fdde660c3ccab82756acc5233687a4ceb4b8f30/130). And for a prominent Oulipo example on Ethereum, see [Kalen Iwamoto](https://twitter.com/MothersEthereum/status/1393619639377317888) and their many structurally related works.
-* [Etherpoems](https://opensea.io/collection/etherpoemsspokenword) (2021) is perhaps the archetypal poetry project on Ethereum. It published *many* poets and related creators, including [Sasha](https://twitter.com/sashastiles) and [Kalen](https://twitter.com/KalenIwamoto) and [Ana María Caballero](https://twitter.com/CaballeroAnaMa) and [A. L. Crego](https://twitter.com/ALCrego_).
-* For creations akin to amazing visual poetry in code, see the work of [Emily Weil](https://twitter.com/emilyaweil), including [Symbol 1](https://twitter.com/takenstheorem/status/1636195768326406145) on Art Blocks.
+* [Etherpoems](https://opensea.io/collection/etherpoemsspokenword) (2021) is perhaps the archetypal poetry project on Ethereum. It published many poets and related creators, including [Sasha](https://twitter.com/sashastiles) and [Kalen](https://twitter.com/KalenIwamoto) and [Ana María Caballero](https://twitter.com/CaballeroAnaMa) and [A. L. Crego](https://twitter.com/ALCrego_). 
+* For creations akin to amazing visual poetry in code, see the work of [Emily Weil](https://twitter.com/emilyaweil), including [Symbol 1](https://twitter.com/takenstheorem/status/1636195768326406145) on Art Blocks. See also [theVERSEverse](https://twitter.com/theVERSEverse).
 
 ![Rhopalic expressions emanate from the generator function](../assets/rhops.png?raw=True)
 
