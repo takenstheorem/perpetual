@@ -1,6 +1,6 @@
 ![Mixing molecules into stuff](../assets/chemwide.png?raw=True)
 
-To collect "Filtered" and other projects of "Perpetual," consult the on-chain allowlist eligibility on Perpetual's [main site here](https://perpetual.takens.eth.limo).
+*To collect Filtered and other projects of Perpetual, consult the on-chain allowlist eligibility on Perpetual's [main site here](https://perpetual.takens.eth.limo).*
 
 ### Release 3
 # Filtered
