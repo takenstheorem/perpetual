@@ -45,4 +45,4 @@ When the transaction is complete, you'll be able to click on the transaction and
 
 Etherscan may take a few seconds to update the appearance of that mint on its website. 
 
-![viewing asset on etherscan](assets/etherscan/mint_complete.png?raw=true)
+![viewing asset on etherscan](assets/etherscan/mint_show.png?raw=true)
