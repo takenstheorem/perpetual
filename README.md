@@ -39,10 +39,10 @@ Under `mint` supply the same details: owner wallet (recipient), NFT address (the
 
 ![coordinator interface read illustration](assets/etherscan/mint.png?raw=true)
 
-When the transaction is complete, you'll be able to click on the transaction and see the new _Perpetual_ mint. 
+When the transaction is complete, you'll be able to click on the [transaction](https://etherscan.io/tx/0xf67ee3ffcc96b45df48a6f5682d3b42848721e6cd744111e0a6404f10779bd95) and see the new _Perpetual_ mint. 
 
 ![transaction details](assets/etherscan/mint_example.png?raw=true)
 
-Etherscan may take a few seconds to update the appearance of that mint on its website. 
+Etherscan may take a few seconds to update the appearance of [that asset](https://etherscan.io/nft/0xbbcfcc50a2885495ab789e06bab7d8f85d2f73ce/206) on its website. 
 
 ![viewing asset on etherscan](assets/etherscan/mint_show.png?raw=true)
