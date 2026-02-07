@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "openzeppelin-contracts/utils/Strings.sol";
-import "openzeppelin-contracts/utils/Base64.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
+import "@openzeppelin/contracts/utils/Base64.sol";
 
 // borrowing from 2015: https://etherscan.io/address/0x1a6184cd4c5bea62b0116de7962ee7315b7bcbce#code
 contract DateTime {
@@ -244,13 +244,22 @@ contract hashFilter is DateTime {
     string memory text1 = string(abi.encodePacked('<text x="10" y="990" font-family="Arial" font-size="7pt" fill="#ffffff44">',Strings.toHexString(uint256(blockhash(block.number-1))),' | '));
     string memory text2 = string(abi.encodePacked(Strings.toString(block.number),' | ',dateString(block.timestamp),'</text>'));
 
-    string memory img_back = '" x="0" y="0" width="1000" height="1000" preserveAspectRatio="none" style="image-rendering: crisp-edges;" /></pattern></defs><rect x="0" y="0" width="100%" height="100%" fill="black"/><rect x="0" y="0" width="100%" height="100%" fill="url(#bgp)"  style="image-rendering: pixellated;"/>';    
+    string memory img_back = '" x="0" y="0" width="1000" height="1000" preserveAspectRatio="none" style="image-rendering: crisp-edges;" /></pattern></defs><rect x="0" y="0" width="100%" height="100%" fill="black"/><rect x="0" y="0" width="100%" height="100%" fill="url(#bgp)"  style="image-rendering: pixelated;"/>';    
     string memory img = Base64.encode(abi.encodePacked(img_front,bmp(token_id,block.number),img_back,text1,text2,'</svg>'));
+    
+    string memory filter_pattern;
+    if (token_id % 32 == 0) {
+        filter_pattern = "Shifted";
+    } else {
+        filter_pattern = "Standard";
+    }
+    
+    string memory random_type = string(abi.encodePacked("Random Type ", Strings.toString(token_id % 32)));
     
     string memory idt = Strings.toHexString(token_id);
     bytes memory json = abi.encodePacked('{"name":"Filtered | ',idt,'"',
         ',"description":"Pattern from smoothed stochastic; determined and random."',
-        ',"attributes":[{"trait_type":"Renderer","value":"3"}]',
+        ',"attributes":[{"trait_type":"Renderer","value":"3"},{"trait_type":"Pattern Ordinate","value":"',filter_pattern,'"},{"trait_type":"Filter Ordinate","value":"',random_type,'"}]',
         ',"image":"data:image/svg+xml;base64,',img,
       '"}');
     return string(abi.encodePacked('data:application/json;base64,',Base64.encode(json)));  
